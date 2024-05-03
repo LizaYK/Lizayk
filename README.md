@@ -12,5 +12,5 @@ Here are a few things about me:
 I love watching the sunsets and creating this About me page is fun!
 
 <picture>
- <img alt="SKY" src="https://th.bing.com/th/id/OIP.zV3s3iK9VroBNP-v5Z4JNAHaEE?pid=ImgDet&w=180&h=99.02924451665312&c=7&dpr=1.3">
+ <img alt="Sunset Sky" src="https://th.bing.com/th/id/OIP.zV3s3iK9VroBNP-v5Z4JNAHaEE?pid=ImgDet&w=180&h=99.02924451665312&c=7&dpr=1.3">
 </picture>
