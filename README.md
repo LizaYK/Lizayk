@@ -1,4 +1,4 @@
-### About me 👋
+### Hi 👋
 
 Here are a few things about me:
 
