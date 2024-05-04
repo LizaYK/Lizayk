@@ -5,8 +5,8 @@ Here are a few things about me:
 - 🔭 I’m currently working on a new game (my very first one!)!
 - 👩‍🎓 I'm currently studying Cybersecurity
 - 😄 Pronouns: She / Her
-- ❓ Please ask me anything you like to lear from me.
-- 🎲 I love playing board games with family
+- ❓ Please ask me anything you like to learn from me.
+- 🎲 I love playing board games with family and 📚
 - 🎮 learning to play halo games on my pc
   
 I love watching the sunsets and creating this About me page is fun!
